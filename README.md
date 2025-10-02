@@ -1,3 +1,1 @@
-# Introducción a la IA 2025-2
-
-Este repositorio contiene materiales y laboratorios desarrollados en Google Colab para la clase de Introducción a la Inteligencia Artificial.
+Yeison Naranjo Gomez - c.c. 1193583739 - Ingenieria Civil - Oscar David Muñoz Benitez-c.c. 1004580541 - Ingenieria Civil 
