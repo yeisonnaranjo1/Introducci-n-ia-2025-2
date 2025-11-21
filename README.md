@@ -6,4 +6,4 @@
 - https://youtu.be/sQejiIPmYCI
 
 # Enlace video de youtube entrega 3
-- https://youtu.be/Trhala-img8
+- https://www.youtube.com/watch?v=al0joz-I42o
